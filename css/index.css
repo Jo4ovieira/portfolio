@@ -199,6 +199,20 @@ display: flex;
 flex-direction: row;
 justify-content: end;
 }
+.img {
+    width: 100%;
+    border-radius: 10px;
+}
+.proj {
+    display: flex;
+    flex-direction: column;
+}
+.p-icons {
+    margin-top: auto;
+}
+.al {
+    margin-right: 16px;
+}
 
 
 
